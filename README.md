@@ -13,3 +13,10 @@ PHP es un lenguaje de secuencias open source de comandos de propósito general d
 
 Al momento de esta descripción, la versión actual es PHP 5. El desarrollo de PHP 6 está en camino pero sin fecha fija de lanzamiento.
 
+## PHP Master | 1
+	
+### http://linkshrink.net/7xY4Ho
+
+### Like and Suscribance
+#### Todos los Sabados nuevo enlace
+#### Comenta que otro curso quieres ver aqui
