@@ -16,6 +16,7 @@ Al momento de esta descripción, la versión actual es PHP 5. El desarrollo de P
 ## PHP Master | 2
 	
 ### http://linkshrink.net/7kwWHj
+#### http://lonewolf.hol.es/blog/ojala/descargar-cursos-full-hd-laravel-angular-boostrap-devcode/
 
 ### Like and Suscribance
 #### Todos los Sabados nuevo enlace
